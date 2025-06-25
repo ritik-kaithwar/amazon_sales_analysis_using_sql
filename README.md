@@ -67,7 +67,7 @@ CREATE TABLE Amazon (
 ---
 
 ##  Business Questions Answered
-- This project answers 28 SQL business questions categorized into:
+This project answers 28 SQL business questions categorized into:
 
  - **Branch & City Insights**
 
